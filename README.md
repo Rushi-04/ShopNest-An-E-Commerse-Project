@@ -1,5 +1,5 @@
 # ShopNest-An-E-Commerse-Project
-Advance Django Project
-Hello👋🏻  💻 In this Project I have created an E-Commerse Website
-Tech stack involved --- HTML, CSS, Bootstrap, Python, Javascript, Django,
-Database --- dbsqlite
+Advance Django Project <br>
+Hello👋🏻  💻 In this Project I have created an E-Commerse Website <br>
+Tech stack involved --- HTML, CSS, Bootstrap, Python, Javascript, Django, <br>
+Database --- dbsqlite <br>
